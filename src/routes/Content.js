@@ -1,5 +1,5 @@
 const content = {
-    CURRENT_EVP: "Rebecca Lee",
+    CURRENT_EVP: "Shannon Shams",
     EXTERNAL_VICE_PRESIDENT: "External Vice President",
     WELCOME_LETTER: [`
                  Dear prospective RSSer,
