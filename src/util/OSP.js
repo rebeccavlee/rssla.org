@@ -141,7 +141,7 @@ class OSP extends Component {
                         name="Camila Rocha"
                         year="1st year"
                         major="Sociology and Education & Social Transformation"
-                        img="Izzy.jpg"
+                        img="Camila.jpg"
                         halign="45%"
                         valign="20%"
                     >
