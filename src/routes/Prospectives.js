@@ -37,7 +37,7 @@ class Prospectives extends Component {
             <RSSPage className="prospectives">
                 <Banner 
                     text="prospectives" 
-                    bgr="/images/prospectives/osp_headshots/osp_group_25.jpg"
+                    bgr="/images/prospectives/osp_headshots/Group_Photo_III.jpg"
                     darkness="0.2"
                     valign="65%"
                 />
@@ -139,7 +139,7 @@ class ProspectivesIntro extends Component {
                                 some lifelong friends and even potentially future roommates! If you have any questions about college, 
                                 and I mean any — this is the place to have them answered. We look forward to meeting you soon!
                             </div>
-                            <div className="evp_letter_signature">- Rebecca Zhu</div>
+                            <div className="evp_letter_signature">- Shannon Shams</div>
                             <div className="evp_letter_title">
                                 External Vice President
                             </div>
@@ -200,7 +200,7 @@ class ProspectivesIntro extends Component {
                         some lifelong friends and even potentially future roommates! If you have any questions about college, 
                         and I mean any — this is the place to have them answered. We look forward to meeting you soon!
                     </div>
-                    <div className="evp_letter_signature">- Rebecca Zhu</div>
+                    <div className="evp_letter_signature">- Shannon Shams</div>
                     <div className="evp_letter_title">
                         External Vice President
                     </div>
