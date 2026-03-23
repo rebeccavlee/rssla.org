@@ -80,7 +80,7 @@ class OSP extends Component {
                 <OSPCoordWrapper>
                     <div className="group_photo">
                         <img 
-                            src="/images/prospectives/groupphoto2.jpg" 
+                            src="/images/prospectives/Group_Photo_I.jpg" 
                             alt="Group Photo" 
                             width="75%" 
                             style={{border: '5px solid white', marginLeft: 'auto', marginRight: 'auto'}}
@@ -88,73 +88,82 @@ class OSP extends Component {
                         <br/><br/>
                     </div>
                     <OSPCoord
-                        name="Adrian Anaya"
-                        year="1st year"
-                        major="Chemical Engineering"
-                        img="Adrian.jpg"
+                        name="Haley Dablo"
+                        year="3rd year/2nd year transfer"
+                        major="Nursing"
+                        img="Haley.jpg"
                         halign="45%"
                         valign="20%"
                     >
-                        Hello all! My name is Adrian Anaya, and I am a first year Chemical Engineering major from Palmdale. I am excited to be one of the coords for this year’s OSP!
+                        Hi everyone! My name is Haley, and I’m one of your OSP coords this year :) I am a third-year nursing major/2nd-year transfer at UCLA, and I’m from the San Fernando Valley! 
                         <br/><br/>
-                        Outside of school and classes, you can often catch me reading, trying new foods, playing a wide variety of video games, hunting down Funkos for my collection, or just relaxing listening to music. My interests change pretty often, so I may pick up something new soon. As for UCLA, when not having fun with RSS I work with AIChE in technical projects, fence in our schools club fencing, or work as an assistant in a research lab within the Bioengineering department. RSS has amazing people in it, and I’m excited for you guys to meet them!
+                        A lot of my time goes into school and clinicals, but outside of that I really value spaces where I can connect with people and just be myself. I love anything that gets me out of the house, especially matcha runs and cafe hopping around LA, shopping, and trying new food spots. When I’m not busy, I’m probably at the beach or just hanging out with friends and unwinding on IG reels. 
                         <br/><br/>
-                        Congratulations on your acceptance to UCLA, and I’m excited to meet you all at OSP, see you soon!
-                    </OSPCoord>
-                    <OSPCoord
-                        name="Scarlett Greenwood"
-                        year="1st year"
-                        major="Physics"
-                        img="Scarlett.jpg"
-                        halign="45%"
-                        valign="20%"
-                    >
-                        Hi! I’m Scarlett Greenwood, and I’m a first-year Physics major from Irvine. I’ll be one of your OSP Coords!
-                        <br/><br/>
-                        I’m involved in quite a bit across campus, but the freedom of college has taught me the importance of having time to myself and taking things easy. I love trying all of the different food options around the school—even though I’ve been here for two quarters already, there’s still so much to try! However, I still value academics and studying. In fact, I’ve just gotten involved in my first research lab, building an atomic clock!
-                        <br/><br/>
-                        On my own time, I enjoy creative writing, collecting, and watching obscure horror movies. With so much to do in the LA area, I also spend some special weekends going to new and fun places with my friends! Whatever you’re into, there’s something here for you.
-                        <br/><br/>
-                        I’m more than excited to meet you! Congratulations on your acceptance, and welcome to UCLA!
+                        On campus, I’m involved in a mix of different student spaces, so I’m usually bouncing between different places and meeting all kinds of people. I’m so excited to meet you all and get to know everyone this year :)
 
                     </OSPCoord>
                     <OSPCoord
-                        name="Stephanie Nguyen"
-                        year="1st year"
-                        major="Neuroscience"
-                        img="Stephanie.jpg"
+                        name="Kevin Jiang"
+                        year="2nd year"
+                        major="Statistics and Data Science"
+                        img="Kevin.jpg"
                         halign="45%"
                         valign="20%"
                     >
-                        Hello! I’m Stephanie Nguyen, a first-year neuroscience major from Torrance. I’m currently applying for a minor in biomedical research and am on the pre-med track too. At UCLA, I’m involved in a handful of volunteering organizations and am about to join my first research lab!
-                        <br/><br/>
-                        You’ll often find me wandering all over campus to find cozy places to study and relax. I also love birding, so that’s another reason why I’m walking around outside so much. Other than that, I enjoy playing rhythm games across all platforms, grinding out crossword puzzles late at night, and getting lost in Wikipedia rabbit holes.
-                        <br/><br/>
-                        I’m looking forward to welcoming you all into RSS and UCLA! Congratulations on your accomplishments and see you soon!
+                        Hello everyone! My name is Kevin Jiang, and I’m super excited to be one of the OSP Coords introducing you to UCLA. I’m a second year Statistics and Data Science student, and I’m from Fremont in the Bay Area. Outside of academics (and the relentless hunt for internships and hackathons), I enjoy cooking new recipes, creating puzzles of questionable difficulty, and destroying my fingers in rhythm games. RSS is an organization filled to the brim with exciting experiences and fresh perspectives from peers of all years, so I can’t wait to meet you all and show you what we have to offer! :) 
+
                     </OSPCoord>
                     <OSPCoord
-                        name="Alex Hoe"
+                        name="Chris Jimenez"
                         year="1st year"
-                        major="Materials Science"
-                        img="Alex.jpg"
+                        major="Art"
+                        img="Chris.jpg"
                         halign="45%"
                         valign="20%"
                     >
-                        Hello everyone! My name is Alex, a 1st year materials science engineering major from Temple City, California, and I’m super excited to be one of your OSP Coordinators this year. A little bit about me- I love being outdoors whether it be exploring LA, spending the day at the beach, or just enjoying the day at Janss steps. I also love playing basketball, golf, the piano, guitar, and violin, snowboarding, skateboarding, and I’m always working on DIY projects in the makerspace. Congratulations on your acceptance, and I can't wait to meet everyone at OSP.
+                        Hi all! My name is Chris Jimenez, and I am a first year art major from San Diego! I’ve had so much fun organizing OSP and I’m happy to be one of the coords this year! 
+                        <br/><br/>
+                        Outside of RSS, I’m very active in art and cultural spaces on campus and am currently a working graphic designer! I love playing video games, watching reels, eating, and hanging out with friends! You can often find me in the studio for hours, eating at Epicuria, or hanging out at the sunset learning center! 
+                        <br/><br/>
+                        I’m so excited to finally meet all of you! Congrats on your acceptance into UCLA and the Regents Scholarship!
                     </OSPCoord>
                     <OSPCoord
-                        name="Izzy Nuñez"
+                        name="Jonathan Luna"
                         year="1st year"
-                        major="Pre-Human Biology & Society"
+                        major="Human Biology & Society"
+                        img="Jonathan.jpg"
+                        halign="45%"
+                        valign="20%"
+                    >
+                        Hi everyone! My name is Jonathan Luna and I am looking forward to being one of your OSP coords. I’m a first-year Human Biology and Society student from Koreatown in Los Angeles. I enjoy listening to music, playing my guitar, skateboarding around in the city, and creating passion projects. RSS is an amazing community and I’m excited to show you what this community has to offer.
+                    </OSPCoord>
+                    <OSPCoord
+                        name="Camila Rocha"
+                        year="1st year"
+                        major="Sociology and Education & Social Transformation"
                         img="Izzy.jpg"
                         halign="45%"
                         valign="20%"
                     >
-                        Hey everyone! My name is Isabella Nuñez, but I go by Izzy. I’m a first-year Pre-Human Biology and Society major from Whittier, CA, and I’m super thrilled to be one of your coordinators this year!
+                        Welcome new Bruins! My name is Camila Rocha, and I am honored to be one of your OSP coords for this year! I am a first-year student from Riverside, CA double majoring in Sociology and Education & Social Transformation. I am currently pursuing a career in high school/college counseling—but I’m also passionate about aviation and aspire to become an airline pilot later on! 
                         <br/><br/>
-                        In my free time, I love to read mystery novels or poetry books, cafe hop, write poetry and journal, listen to music, and watch sports! On campus, you can pretty much find me at the Buzz or Bookzone at Ackerman 24/7. Besides that, I enjoy attending football games as well as RSS events, venturing out into Westwood for study sessions, and having dinner in the dining halls with my fellow RSS roommate!
+                        Beyond RSS, I work as a Resident Assistant (RA) and New Student Advisor (NSA). I am also involved in a variety of on-campus organizations like Bruin Initiative, Compas, Matriculate, Project Literacy, Unicamp, BruinHope, USAC Academic Affairs Commission, and Bruin Aviation. For fun, I enjoy exploring new hiking trails, baking, drawing, gardening, and making crafts to decorate my dorm!  
                         <br/><br/>
-                        I can’t wait to meet all of you, and congratulations on your acceptance and Regents scholarship!
+                        I am beyond excited to meet and introduce you all to the UCLA and RSS community!
+                    </OSPCoord>
+                    <OSPCoord
+                        name="Isaac Wang"
+                        year="1st year"
+                        major="Physiological Sciences"
+                        img="Isaac.jpg"
+                        halign="45%"
+                        valign="20%"
+                    >
+                        Hello Prospies! My name is Isaac Wang and I am a first year Physiological Sciences major from San Francisco, California. It’s my greatest pleasure to be able to serve as one of your OSP Coords this year.
+                        <br/><br/>
+                        In my free time, I love going to the gym, playing the piano, and volunteering to help all different kinds of people; especially in the children's ministry at my church. I am also in the process of joining a research lab centered around muscular dystrophy, which I am extremely excited about. Although I am aware that I don’t have a broad range of interests, I am very passionate and dedicated to the things that I involve myself in, so feel free to ask me any questions regarding my hobbies.
+                        <br/><br/>
+                        Congratulations on your acceptance and Regents’ Scholarship, and I cannot wait to meet you at OSP!
                     </OSPCoord>
                 </OSPCoordWrapper>
             </div>
