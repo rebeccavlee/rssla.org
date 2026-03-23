@@ -64,17 +64,28 @@ class OSP extends Component {
             <div className="osp">
                 <OSPWrapper class="osp_itinerary_wrapper">
                     <OSPHeading name="osp itinerary"/>
-                    <div className = "itinerary_pdf_container">
-                        <object
-                            data="osp_itinerary.pdf"
-                            type="application/pdf"
-                            width="100%"
-                            height="600px"
-                        >
-                            <p>
-                                Your browser does not support PDFs.
-                            </p>
-                        </object>
+                    <div className = "itinerary_image_container">
+                        <img 
+                            src="OSP_itinerary_1.jpg"  
+                            width="50%" 
+                            style={{marginLeft: 'auto', marginRight: 'auto'}}
+                        />
+                        <img 
+                            src="OSP_itinerary_2.jpg"  
+                            width="50%" 
+                            style={{marginLeft: 'auto', marginRight: 'auto'}}
+                        />
+                        <br/><br/>
+                            <img 
+                            src="OSP_itinerary_3.jpg"  
+                            width="50%" 
+                            style={{marginLeft: 'auto', marginRight: 'auto'}}
+                        />
+                            <img 
+                            src="OSP_virtual_itinerary.jpg"  
+                            width="50%" 
+                            style={{marginLeft: 'auto', marginRight: 'auto'}}
+                        />
                     </div>
                 </OSPWrapper>
                 <OSPCoordWrapper>
