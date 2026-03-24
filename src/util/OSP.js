@@ -66,23 +66,23 @@ class OSP extends Component {
                     <OSPHeading name="osp itinerary"/>
                     <div className = "itinerary_image_container">
                         <img 
-                            src="OSP_itinerary_1.jpg"  
+                            src="/OSP_itinerary_1.png"  
                             width="50%" 
                             style={{marginLeft: 'auto', marginRight: 'auto'}}
                         />
                         <img 
-                            src="OSP_itinerary_2.jpg"  
+                            src="/OSP_itinerary_2.png"  
                             width="50%" 
                             style={{marginLeft: 'auto', marginRight: 'auto'}}
                         />
                         <br/><br/>
                             <img 
-                            src="OSP_itinerary_3.jpg"  
+                            src="/OSP_itinerary_3.png"  
                             width="50%" 
                             style={{marginLeft: 'auto', marginRight: 'auto'}}
                         />
                             <img 
-                            src="OSP_virtual_itinerary.jpg"  
+                            src="/OSP_virtual_itinerary.png"  
                             width="50%" 
                             style={{marginLeft: 'auto', marginRight: 'auto'}}
                         />
