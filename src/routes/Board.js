@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import RSSPage from '../util/RSSPage';
 import Banner from '../util/Banner';
-
+import {ImageTextPanel, TextPanel} from '../util/TextPanel';
 import './board.css';
 
 class Board extends Component {
@@ -166,6 +166,12 @@ class Board extends Component {
                     darkness="0"
                     valign="55%"
                 />
+                       <TextPanel 
+                    id="eboard-description-panel"
+                >
+                        The <b>Regents Scholar Society Executive Board<b> is responsible for designing, planning, and executing all of the internal and external programs, projects, resources, activities, service events, leadership opportunities, mentorship, academic and professional events for our members to thrive at UCLA. A highly collaborative and supportive group of 14 outstanding RSSers, E-board works hard throughout the year to keep RSSers engaged and involved in the society through providing creative and innovative events and opportunities for all.
+                
+                        </TextPanel>
                 <div className="board-wrapper">
                     {this.state.width > 840 ? contents :
                         <div className="board-flex-wrapper">
