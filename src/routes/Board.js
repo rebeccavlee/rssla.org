@@ -48,15 +48,6 @@ class Board extends Component {
                     halign="50%"
                     valign="60%"
                 />
-                /*<BoardProfile width={this.state.width}
-                    title="Internal Vice President"
-                    name="Vacant"
-                    major=
-                    img=
-                    size="115% auto"
-                    halign="45%"
-                    valign="35%"*/
-                />
                 <BoardProfile width={this.state.width}
                     title="Secretary"
                     name="Scarlett Greenwood"
@@ -93,15 +84,6 @@ class Board extends Component {
                     halign = "50%"
                     valign="65%"
                 />
-                /*<BoardProfile width={this.state.width}
-                    title="Educational Programs Director"
-                    name="Vacant"
-                    major=
-                    img=
-                    size="110% auto"
-                    halign="50%"
-                    valign="60%"*/
-                />
                 <BoardProfile width={this.state.width}
                     title="Funding Director"
                     name="Tomas Mazeika"
@@ -111,15 +93,7 @@ class Board extends Component {
                     halign="50%"
                     valign="15%"
                 />
-                /*<BoardProfile width={this.state.width}
-                    title="Treasurer"
-                    name="Vacant"
-                    major=
-                    img=
-                    size="130% auto"
-                    halign="50%"
-                    valign="30%"*/
-                />
+
                 <BoardProfile width={this.state.width}
                     title="Publicity Director"
                     name="Katie Fang"
@@ -146,15 +120,6 @@ class Board extends Component {
                     size="150% auto"
                     halign="55%"
                     valign="58%"
-                />
-                /*<BoardProfile width={this.state.width}
-                    title="Webmaster"
-                    name="Vacant"
-                    major=
-                    img=
-                    size="100% auto"
-                    halign="55%"
-                    valign="58%" */
                 />
             </>
         )
