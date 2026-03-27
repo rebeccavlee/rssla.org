@@ -76,11 +76,11 @@ class Programs extends Component {
                         Academic workshops hosted by the Society aim to guide Regents Scholars as they enter UCLA’s fast-paced environment and/or prepare for opportunities outside of the classroom. These workshops focus on skills and materials necessary to thrive in college that are never explicitly taught. Workshops are open to all majors and promote a culture of equity by disseminating knowledge to all our members. Some workshops are catered toward first year students while others target all members of RSS. Workshops include:
 <p/>
     <ul>
-    <li><b>Resume/CV, Club Apps, and Scholarships</b><li>
-<li><b>Cold Emailing</b><li>
-<li><b>Class Registration</b><li>
-<li><b>Summer REUs and Internships</b><li>
-<li><b>Interviews</b><li>
+    <li><b>Resume/CV, Club Apps, and Scholarships</b></li>
+<li><b>Cold Emailing</b></li>
+<li><b>Class Registration</b></li>
+<li><b>Summer REUs and Internships</b></li>
+<li><b>Interviews</b></li>
                         </ul>
                 </TextPanel>
 
