@@ -81,6 +81,7 @@ class Programs extends Component {
 <li><b>Class Registration</b><li>
 <li><b>Summer REUs and Internships</b><li>
 <li><b>Interviews</b><li>
+                        </ul>
                 </TextPanel>
 
                         
