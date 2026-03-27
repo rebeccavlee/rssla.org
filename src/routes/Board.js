@@ -35,7 +35,7 @@ class Board extends Component {
                     name="Rebecca Lee"
                     major="Biochemistry, 2026"
                     img="RebeccaLee.jpg"
-                    size="115% auto"
+                    size="160% auto"
                     halign="45%"
                     valign="35%"
                 />
@@ -48,7 +48,7 @@ class Board extends Component {
                     halign="50%"
                     valign="20%"
                 />
-                <BoardProfile width={this.state.width}
+                /*<BoardProfile width={this.state.width}
                     title="Internal Vice President"
                     name="Vacant"
                     /*major=
@@ -62,7 +62,7 @@ class Board extends Component {
                     name="Scarlett Greenwood"
                     major="Psychology, 2028"
                     img="ScarlettGreenwood.jpg"
-                    size="115% auto"
+                    size="160% auto"
                     halign="47%"
                     valign = "58%"
                 />
@@ -71,8 +71,8 @@ class Board extends Component {
                     name="Adrian Anaya"
                     major="Chemical Engineering, 2028"
                     img="AdrianAnaya.jpg"
-                    size="115% auto"
-                    halign="70%"
+                    size="145% auto"
+                    halign="50%"
                     valign="25%"
                 />
                 <BoardProfile width={this.state.width}
@@ -80,8 +80,8 @@ class Board extends Component {
                     name="Stephanie Nguyen"
                     major="Neuroscience, 2028"
                     img="StephanieNguyen.jpg"
-                    size="115% auto"
-                    halign="70%"
+                    size="145% auto"
+                    halign="50%"
                     valign="20%"
                 />
                 <BoardProfile width={this.state.width}
@@ -89,11 +89,11 @@ class Board extends Component {
                     name="Izzy Nuñez"
                     major="Human Biology & Society, 2028"
                     img="IzzyNunez.jpg"
-                    size="115% auto"
+                    size="160% auto"
                     halign = "50%"
                     valign="65%"
                 />
-                <BoardProfile width={this.state.width}
+                /*<BoardProfile width={this.state.width}
                     title="Educational Programs Director"
                     name="Vacant"
                     /*major=
@@ -109,9 +109,9 @@ class Board extends Component {
                     img="TomasMazeika.jpg"
                     size="115% auto"
                     halign="50%"
-                    valign="30%"
+                    valign="20%"
                 />
-                <BoardProfile width={this.state.width}
+                /*<BoardProfile width={this.state.width}
                     title="Treasurer"
                     name="Vacant"
                     /*major=
@@ -125,9 +125,9 @@ class Board extends Component {
                     name="Katie Fang"
                     major="World Arts and Cultures, 2026"
                     img="KatieFang.jpg"
-                    size="170% auto"
+                    size="130% auto"
                     halign="55%"
-                    valign="38%"
+                    valign="30%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Transfer Affairs Director"
@@ -143,11 +143,11 @@ class Board extends Component {
                     name="Téa Wagstaff"
                     major="Mathematics/Economics, 2027"
                     img="TeaWagstaff.jpg"
-                    size="115% auto"
+                    size="135% auto"
                     halign="55%"
                     valign="58%"
                 />
-                <BoardProfile width={this.state.width}
+                /*<BoardProfile width={this.state.width}
                     title="Webmaster"
                     name="Vacant"
                     /*major=
@@ -179,6 +179,13 @@ class Board extends Component {
                         </div>
                     }
                 </div>
+
+                    <TextPanel 
+                    id="eboard-asterisk"
+                >
+                        *Vacant positions: Internal Vice President, Treasurer, Educational Programs Director, Webmaster
+                
+                        </TextPanel>
             </RSSPage>
         )
     }
