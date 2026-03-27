@@ -51,11 +51,11 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Internal Vice President"
                     name="Vacant"
-                    #major=
-                    #img=
-                    #size="115% auto"
-                    #halign="45%"
-                    #valign="35%"
+                    /*major=
+                    img=
+                    size="115% auto"
+                    halign="45%"
+                    valign="35%"*/
                 />
                 <BoardProfile width={this.state.width}
                     title="Secretary"
@@ -96,11 +96,11 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Educational Programs Director"
                     name="Vacant"
-                    #major=
-                    #img=
-                    #size="110% auto"
-                    #halign="50%"
-                    #valign="60%"
+                    /*major=
+                    img=
+                    size="110% auto"
+                    halign="50%"
+                    valign="60%"*/
                 />
                 <BoardProfile width={this.state.width}
                     title="Funding Director"
@@ -114,11 +114,11 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Treasurer"
                     name="Vacant"
-                    #major=
-                    #img=
-                    #size="130% auto"
-                    #halign="50%"
-                    #valign="30%"
+                    /*major=
+                    img=
+                    size="130% auto"
+                    halign="50%"
+                    valign="30%"*/
                 />
                 <BoardProfile width={this.state.width}
                     title="Publicity Director"
@@ -143,18 +143,18 @@ class Board extends Component {
                     name="Téa Wagstaff"
                     major="Mathematics/Economics, 2027"
                     img="TeaWagstaff.jpg"
-                    #size="115% auto"
-                    #halign="55%"
-                    #valign="58%"
+                    size="115% auto"
+                    halign="55%"
+                    valign="58%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Webmaster"
                     name="Vacant"
-                    #major=
-                    #img=
-                    #size="100% auto"
-                    #halign="55%"
-                    #valign="58%"
+                    /*major=
+                    img=
+                    size="100% auto"
+                    halign="55%"
+                    valign="58%" */
                 />
             </>
         )
