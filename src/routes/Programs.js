@@ -26,10 +26,14 @@ class Programs extends Component {
 
     updatePanelHeight() {
         if (window.innerWidth > 840) {
+            const panel = document.getElementById("programs-longest-panel");
+        if (panel) {
             this.setState({ 
-                longestPanelHeight: window.getComputedStyle(document.getElementById("programs-longest-panel")).height });
-        } else {
-            this.setState({longestPanelHeight: null});
+                longestPanelHeight: window.getComputedStyle(panel).height 
+            });
+        }
+    } else {
+        this.setState({longestPanelHeight: null});
         }
     }
 
