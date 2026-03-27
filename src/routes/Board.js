@@ -190,7 +190,7 @@ class BoardProfile extends Component {
         const valign = this.props.valign == null ? "0%" : this.props.valign; //picture movement vertically
         const size = this.props.size == null ? "cover" : this.props.size; //zoom
         const imgStyle = {
-            backgroundImage: `url(/images/board24-25/${this.props.img})`,
+            backgroundImage: `url(/images/board25-26/${this.props.img})`,
             backgroundRepeat: "no-repeat",
             backgroundPosition: `${halign} ${valign}`,
             backgroundSize: size
