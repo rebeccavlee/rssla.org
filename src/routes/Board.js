@@ -169,7 +169,7 @@ class Board extends Component {
                        <TextPanel 
                     id="eboard-description-panel"
                 >
-                        The <b>Regents Scholar Society Executive Board<b> is responsible for designing, planning, and executing all of the internal and external programs, projects, resources, activities, service events, leadership opportunities, mentorship, academic and professional events for our members to thrive at UCLA. A highly collaborative and supportive group of 14 outstanding RSSers, E-board works hard throughout the year to keep RSSers engaged and involved in the society through providing creative and innovative events and opportunities for all.
+                        The <b>Regents Scholar Society Executive Board</b> is responsible for designing, planning, and executing all of the internal and external programs, projects, resources, activities, service events, leadership opportunities, mentorship, academic and professional events for our members to thrive at UCLA. A highly collaborative and supportive group of 14 outstanding RSSers, E-board works hard throughout the year to keep RSSers engaged and involved in the society through providing creative and innovative events and opportunities for all.
                 
                         </TextPanel>
                 <div className="board-wrapper">
