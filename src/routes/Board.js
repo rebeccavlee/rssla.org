@@ -35,7 +35,7 @@ class Board extends Component {
                     name="Rebecca Lee"
                     major="Biochemistry, 2026"
                     img="RebeccaLee.jpg"
-                    size="160% auto"
+                    size="175% auto"
                     halign="45%"
                     valign="35%"
                 />
@@ -44,14 +44,14 @@ class Board extends Component {
                     name="Shannon Shams"
                     major="Physiological Sciences, 2026"
                     img="ShannonShams.jpg"
-                    size="115% auto"
+                    size="180% auto"
                     halign="50%"
-                    valign="20%"
+                    valign="60%"
                 />
                 /*<BoardProfile width={this.state.width}
                     title="Internal Vice President"
                     name="Vacant"
-                    /*major=
+                    major=
                     img=
                     size="115% auto"
                     halign="45%"
@@ -64,7 +64,7 @@ class Board extends Component {
                     img="ScarlettGreenwood.jpg"
                     size="160% auto"
                     halign="47%"
-                    valign = "58%"
+                    valign = "50%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Activities Director"
@@ -80,9 +80,9 @@ class Board extends Component {
                     name="Stephanie Nguyen"
                     major="Neuroscience, 2028"
                     img="StephanieNguyen.jpg"
-                    size="145% auto"
+                    size="160% auto"
                     halign="50%"
-                    valign="20%"
+                    valign="15%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Community Service Director"
@@ -96,7 +96,7 @@ class Board extends Component {
                 /*<BoardProfile width={this.state.width}
                     title="Educational Programs Director"
                     name="Vacant"
-                    /*major=
+                    major=
                     img=
                     size="110% auto"
                     halign="50%"
@@ -109,12 +109,12 @@ class Board extends Component {
                     img="TomasMazeika.jpg"
                     size="115% auto"
                     halign="50%"
-                    valign="20%"
+                    valign="15%"
                 />
                 /*<BoardProfile width={this.state.width}
                     title="Treasurer"
                     name="Vacant"
-                    /*major=
+                    major=
                     img=
                     size="130% auto"
                     halign="50%"
@@ -134,7 +134,7 @@ class Board extends Component {
                     name="Carlee Lincoln"
                     major="Political Science and Philosophy, 2026"
                     img="CarleeLincoln.jpg"
-                    size="115% auto"
+                    size="140% auto"
                     halign="50%"
                     valign="20%"
                 />
@@ -143,14 +143,14 @@ class Board extends Component {
                     name="Téa Wagstaff"
                     major="Mathematics/Economics, 2027"
                     img="TeaWagstaff.jpg"
-                    size="135% auto"
+                    size="150% auto"
                     halign="55%"
                     valign="58%"
                 />
                 /*<BoardProfile width={this.state.width}
                     title="Webmaster"
                     name="Vacant"
-                    /*major=
+                    major=
                     img=
                     size="100% auto"
                     halign="55%"
