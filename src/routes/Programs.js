@@ -27,13 +27,13 @@ class Programs extends Component {
     updatePanelHeight() {
         if (window.innerWidth > 840) {
             const panel = document.getElementById("programs-longest-panel");
-        if (panel) {
-            this.setState({ 
-                longestPanelHeight: window.getComputedStyle(panel).height 
-            });
-        }
-    } else {
-        this.setState({longestPanelHeight: null});
+            if (panel) {
+                this.setState({ 
+                    longestPanelHeight: window.getComputedStyle(panel).height 
+                });
+            }
+        } else {
+            this.setState({longestPanelHeight: null});
         }
     }
 
@@ -50,7 +50,6 @@ class Programs extends Component {
                 <TextPanel 
                     heading="Mentorship"
                     align="left"
-                    height={this.state.longestPanelHeight}
                 >
                     We match Regents Scholars with faculty, RSS alumni, or RSS peers whose profiles best match a Scholar’s academic and career interests. Your mentor can guide you through choosing classes, joining student organizations, finding job and internship opportunities, building connections, and giving advice wherever you need.
     <p/>
@@ -64,7 +63,6 @@ class Programs extends Component {
                 <TextPanel 
                     heading="Academic Resources"
                     align="left"
-                    height={this.state.longestPanelHeight}
                 >
                     The Regents Scholar Society hosts a variety of professional development events and programs to advance members’ professional and academic interests/goals. Events and programs that are hosted annually include: 
 
@@ -92,7 +90,6 @@ class Programs extends Component {
                 <TextPanel 
                     heading="Community Service"
                     align="left"
-                    height={this.state.longestPanelHeight}
                 >
                    Community service is a core pillar of the Regents Scholar Society. Our service events connect Regent Scholars with the greater Los Angeles community, turning our values into visible impact. Our current community service initiatives include:
 
@@ -112,7 +109,6 @@ class Programs extends Component {
                 <TextPanel 
                     heading="Activities"
                     align="left"
-                    height={this.state.longestPanelHeight}
                 >
                    The Regents Scholar Society’s weekly social activities are the driving force of the unique, close-knit RSS community. We build RSS connections through intentional, thoughtful events—our activity calendar includes both <b>flagship traditions</b> and <b>small-scale social events</b> to cater to both new and returning members. Our most memorable tradition is the annual 3-day 2-night <b>Winter Retreat</b> focused on building community and connection with fellow scholars, a beloved event which typically includes nature hikes, smores by the fire, and more. Other annual traditions include:
 
