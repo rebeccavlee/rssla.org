@@ -75,9 +75,15 @@ class OSP extends Component {
                 <OSPCoordWrapper>
                     <div className="group_photo">
                         <img 
-                            src="/images/prospectives/TWR_Main_Photo.jpg" 
+                            src="/images/prospectives/TWR_Main_Photo_1.jpg" 
                             alt="TWR Group Photo" 
-                            width="75%" 
+                            width="48%" 
+                            style={{border: '5px solid white', marginLeft: 'auto', marginRight: 'auto'}}
+                        />
+                        <img 
+                            src="/images/prospectives/TWR_Main_Photo_2.jpg" 
+                            alt="TWR Group Photo 2" 
+                            width="48%" 
                             style={{border: '5px solid white', marginLeft: 'auto', marginRight: 'auto'}}
                         />
                         <br/><br/>
