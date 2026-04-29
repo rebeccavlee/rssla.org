@@ -8,7 +8,7 @@ import TWR from '../util/TWR';
 import {TextPanel} from '../util/TextPanel';
 import {BenefitDescription, BenefitWrapper} from '../util/BenefitDescription';
 
-import './prospectives.css';
+import './prospectives_osp.css';
 
 class Prospectives_OSP extends Component {
     constructor(props) {
