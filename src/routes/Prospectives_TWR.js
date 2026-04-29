@@ -43,15 +43,8 @@ class Prospectives extends Component {
                 />
 
                 <ProspectivesIntro width={this.state.width} />
-
-                <div className="welcome_wrapper">
-                    <h2 className= "welcome_header"> welcome to our {content.OSP.toLowerCase()}!</h2> 
-                    <div className= "welcome_to_osp">
-                        {content.WELCOME_BLURB}
-                    </div>
-                </div>
                
-                <OSP />
+             
 
                 <TextPanel heading="contact us!">
                     <div className="twr_contact_wrapper">
