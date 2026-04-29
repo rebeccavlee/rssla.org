@@ -10,7 +10,7 @@ import {BenefitDescription, BenefitWrapper} from '../util/BenefitDescription';
 
 import './prospectives.css';
 
-class Prospectives extends Component {
+class Prospectives_OSP extends Component {
     constructor(props) {
         super(props);
         this.state = {
