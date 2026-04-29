@@ -34,7 +34,7 @@ class Prospectives_OSP extends Component {
 
     render() {
         return (
-            <RSSPage className="prospectives">
+            <RSSPage className="prospectives_osp">
                 <Banner 
                     text="prospectives" 
                     bgr="/images/prospectives/osp_headshots/Group_Photo_III.jpg"
