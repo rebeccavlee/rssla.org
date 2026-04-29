@@ -369,7 +369,7 @@ class ProspectivesIntro extends Component {
                             <><br/><br/>{paragraph}</>
                         )}
                     </div>
-                    <div className="tad_letter_signature">- {content.CURRENT_EVP}</div>
+                    <div className="evp_letter_signature">- {content.CURRENT_EVP}</div>
                     <div className="evp_letter_title">
                         {content.EXTERNAL_VICE_PRESIDENT}
                     </div>
