@@ -46,13 +46,20 @@ class Header extends Component {
                         options={[
                                 {label: "committees", to: "committees"},
                                 {label: "board", to: "board"},
-                                // {label: 'service', to: "service"}
                                 ]}
                     />
                             
                     {/*NAVIGATION BAR */}
                     <NavBox label="gallery" link="gallery" external={false} />
-                    <NavBox label="prospectives" link="prospectives" external={false}/>
+                    <ExpandableNavBox 
+                        label="prospectives" 
+                        link={null} 
+                        desktop={desktop}
+                        options={[
+                                {label: "freshmen", to: "prospectives_osp"},
+                                {label: "transfers", to: "prospectives_twr"},
+                                ]}
+                    />
                     <NavBox label="inter-UC" link="interUC" external={false}/>
                     <NavBox label="contact us" link="contact" external={false}/>
                 </NavItems>
