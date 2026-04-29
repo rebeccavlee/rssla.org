@@ -44,7 +44,7 @@ class Prospectives_TWR extends Component {
 
                 <ProspectivesIntro width={this.state.width} />
                
-             
+                 <TWR />
 
                 <TextPanel heading="contact us!">
                     <div className="twr_contact_wrapper">
