@@ -59,7 +59,7 @@ class Prospectives_TWR extends Component {
                         </div>
                         */}
                     </div>
-                    <img className="osp_contact_img" src="/images/prospectives/contact_banner.png" alt="mountains"/>
+                    <img className="twr_contact_img" src="/images/prospectives/contact_banner.png" alt="mountains"/>
                 </TextPanel>
             </RSSPage>
         )
