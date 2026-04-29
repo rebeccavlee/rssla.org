@@ -6,7 +6,7 @@
     padding-top: 60px;
 }
 
-.prospectives_twr .osp_description {
+.prospectives_twr .twr_description {
     float: left;
     width: 50%;
     padding-top: 3px;
@@ -126,14 +126,14 @@
     padding-top: 0;
 }
 
-.prospectives_twr .osp_contact_wrapper {
+.prospectives_twr .twr_contact_wrapper {
     width: 100%;
     text-align: center;
     padding-bottom: 20px;
     padding-top: 20px;
 }
 
-.prospectives_twr .osp_contact_name {
+.prospectives_twr .twr_contact_name {
     color: white;
     height: 40px;
     line-height: 40px;
@@ -143,7 +143,7 @@
     display: inline-block;
 }
 
-.prospectives_twr .osp_contact_email {
+.prospectives_twr .twr_contact_email {
     display: inline-block;
     height: 40px;
     line-height: 40px;
@@ -151,16 +151,16 @@
     padding-left: 20px;
 }
 
-.prospectives_twr .osp_contact_email_link {
+.prospectives_twr .twr_contact_email_link {
     text-decoration: none;
     color: white;
 }
 
-.prospectives_twr .osp_contact_email_link:hover {
+.prospectives_twr .twr_contact_email_link:hover {
     text-decoration: underline;
 }
 
-.prospectives_twr .osp_contact_img {
+.prospectives_twr .twr_contact_img {
     display: block;
     margin: auto;
     height: calc(200px + 10vw);
@@ -168,11 +168,11 @@
 }
 
 @media (max-width: 430px) {
-    .prospectives_twr .osp_contact_img {
+    .prospectives_twr .twr_contact_img {
         width: 100%;
         height: auto;
     }
-    .prospectives_twr .osp_contact_name {
+    .prospectives_twr .twr_contact_name {
         color: white;
         height: 40px;
         line-height: 40px;
@@ -183,7 +183,7 @@
         margin-top: -15px;
     }
     
-    .prospectives_twr .osp_contact_email {
+    .prospectives_twr .twr_contact_email {
         padding-left: 0;
         display: block;
     }
