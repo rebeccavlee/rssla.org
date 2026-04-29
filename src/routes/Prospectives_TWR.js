@@ -141,8 +141,8 @@ class ProspectivesIntro extends Component {
                                 a letter from our {content.TRANSFER_AFFAIRS_DIRECTOR.toLowerCase()}
                             </div>
                             <div className="tad_letter_body">
-                                {content.WELCOME_LETTER[0]}
-                                {content.WELCOME_LETTER.slice(1).map((paragraph) => 
+                                {content.WELCOME_LETTER2[0]}
+                                {content.WELCOME_LETTER2.slice(1).map((paragraph) => 
                                     <><br/><br/>{paragraph}</>
                                 )}
                             </div>
@@ -217,8 +217,8 @@ class ProspectivesIntro extends Component {
                 </TextPanel>
                 <TextPanel heading="a letter from our transfer affairs director" id="small-letter-panel">
                     <div className="tad_letter_body">
-                        {content.WELCOME_LETTER[0]}
-                        {content.WELCOME_LETTER.slice(1).map((paragraph) => 
+                        {content.WELCOME_LETTER2[0]}
+                        {content.WELCOME_LETTER2.slice(1).map((paragraph) => 
                             <><br/><br/>{paragraph}</>
                         )}
                     </div>
