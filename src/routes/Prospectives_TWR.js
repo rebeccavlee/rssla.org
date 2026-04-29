@@ -108,9 +108,9 @@ class ProspectivesIntro extends Component {
                                     scale="90%"
                                 />
                                 <BenefitDescription
-                                    heading="4"
+                                    heading="2"
                                     subheading="years"
-                                    desc="A parking pass upon submission of the Parking application in addition to four years of university housing."
+                                    desc="A guaranteed parking pass upon submission of the Parking application in addition to two years of guaranteed university housing."
                                     bgr="house.png"
                                     scale="90%"
                                 />
@@ -187,9 +187,9 @@ class ProspectivesIntro extends Component {
                             scale="90%"
                         />
                         <BenefitDescription
-                            heading="4"
+                            heading="2"
                             subheading="years"
-                            desc="A parking pass upon submission of the Parking application in addition to four years of university housing."
+                            desc="A guaranteed parking pass upon submission of the Parking application in addition to two years of guaranteed university housing."
                             bgr="house.png"
                             scale="90%"
                         />
