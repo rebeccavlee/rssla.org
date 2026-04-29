@@ -5,7 +5,7 @@ import { useCSVReader } from 'react-papaparse';
 
 import './osp.css';
 
-class OSP extends Component {
+class TWR extends Component {
 
     constructor(props) {
         super(props);
