@@ -34,7 +34,7 @@ class Prospectives_TWR extends Component {
 
     render() {
         return (
-            <RSSPage className="prospectives">
+            <RSSPage className="prospectives_twr">
                 <Banner 
                     text="prospectives" 
                     bgr="/images/prospectives/osp_headshots/TWR_Background.jpg"
