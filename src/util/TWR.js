@@ -269,4 +269,4 @@ function OSPCoord(props) {
     )
 }
 
-export default OSP;
+export default TWR;
