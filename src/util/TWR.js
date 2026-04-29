@@ -139,7 +139,7 @@ class OSP extends Component {
                             At UCLA, I work at the Cotsen Graduate Institute of Archaeology in the Rock Art Archive, volunteer at the UCNRS Stunt Ranch in the Santa Monica Mountains, and assist in departmental geographical research. In terms of hobbies, I love to hike, travel, play volleyball, cook, off-road, and watch Saturday Night Live.
                         <br/><br/>
                             Congratulations on receiving your Regents Scholarship and I cannot wait for you to see what RSS has to offer.
-
+                    </OSPCoord>
                     <OSPCoord
                         name="Madison Jongewaard"
                         year="2nd year transfer"
@@ -161,7 +161,7 @@ class OSP extends Component {
                     >
                         Hello incoming transfers! My name is Elizabet Zarate and I am a 1st year transfer student majoring in Sociology. I am from San Diego, California. It is a pleasure to be able to serve on the Transfer Affairs Committee and welcome you to UCLA and the RSS community. Outside of RSS, I work as a Teaching Assistant for Grossmont College, the community college I transferred from.
                         <br/><br/>
-                        Can't wait to meet you and congratulations on vour acceptance to UCLA! Go Bruins!
+                        Can’t wait to meet you and congratulations on vour acceptance to UCLA! Go Bruins!
                     </OSPCoord>
                 </OSPCoordWrapper>
             </div>
