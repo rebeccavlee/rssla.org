@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Papa from 'papaparse'
 import { useCSVReader } from 'react-papaparse';
 
-import './osp.css';
+import './twr.css';
 
 class TWR extends Component {
 
