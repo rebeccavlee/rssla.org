@@ -380,4 +380,4 @@ class ProspectivesIntro extends Component {
 
 }
 
-export default Prospectives;
+export default Prospectives_OSP;
