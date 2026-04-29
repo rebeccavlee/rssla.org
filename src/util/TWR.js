@@ -61,9 +61,9 @@ class TWR extends Component {
     
     render() {
         return (
-            <div className="osp">
+            <div className="twr">
                 <OSPWrapper class="osp_itinerary_wrapper">
-                    <OSPHeading name="osp itinerary"/>
+                    <OSPHeading name="Transfer Welcome Reception (TWR) itinerary"/>
                     <div className = "itinerary_image_container">
                         <img 
                             src="/TWR_itinerary.png"  
@@ -240,7 +240,7 @@ function OSPEvent(props) {
 function OSPCoordWrapper(props) {
     return (
         <div className="osp_coord_wrapper">
-            <div className="osp_coord_header">meet your coordinators!</div>
+            <div className="osp_coord_header">meet your TWR coordinators!</div>
             <div className="osp_coord_flexbox">
                 {props.children}
             </div>
