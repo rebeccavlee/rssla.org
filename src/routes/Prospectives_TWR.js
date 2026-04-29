@@ -137,7 +137,7 @@ class ProspectivesIntro extends Component {
                             </BenefitWrapper>
                         </div>
                         <div className='letter_wrapper'>
-                            <div className="evp_letter_header">
+                            <div className="tad_letter_header">
                                 a letter from our {content.TRANSFER_AFFAIRS_DIRECTOR.toLowerCase()}
                             </div>
                             <div className="tad_letter_body">
